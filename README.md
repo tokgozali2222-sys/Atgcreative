@@ -20,4 +20,8 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(circle
 <section id="about"><h2 class="title">ATG Kimdir?</h2><div class="about"><div class="box"><h3 style="color:#D4AF37;margin-bottom:15px">Premium Creative Studio</h3><p>ATG Creative; markalar için sosyal medya tasarımı, video edit ve dijital marka kimliği oluşturan yaratıcı bir ajanstır. Modern, hızlı ve premium çözümler sunuyoruz.</p></div><div class="stats"><div class="stat"><h2>100%</h2><p>Premium Tasarım</p></div><div class="stat"><h2>24/7</h2><p>Destek</p></div><div class="stat"><h2>HD</h2><p>Video Edit</p></div><div class="stat"><h2>Fast</h2><p>Hızlı Teslim</p></div></div></div></section>
 <section id="contact" class="contact"><h2 class="title">İletişim</h2><p>Markanı birlikte büyütelim.</p><div class="socials"><a href="https://wa.me/905555555555">WhatsApp</a><a href="https://instagram.com/atgcreative">Instagram</a></div><form><input placeholder="Ad Soyad"><input placeholder="E-posta"><select><option>Hizmet Seçiniz</option><option>Video Edit</option><option>Sosyal Medya Tasarımı</option><option>Logo Tasarımı</option></select><textarea rows="5" placeholder="Mesajınız"></textarea><button class="submit">Teklif Gönder</button></form></section><footer>© 2026 ATG Creative • Premium Digital Agency</footer>
 </body>
-</html>
+</html> 
+<div class="item social">
+  <img src="images/social1.jpg" alt="Luxury Watch Post">
+  <h4>Luxury Watch Campaign</h4>
+</div>
