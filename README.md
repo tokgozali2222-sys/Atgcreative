@@ -13,7 +13,45 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(circle
 </style>
 </head>
 <body>
-<nav><div class="logo">ATG</div><ul><li><a href="#hero">Ana Sayfa</a></li><li><a href="#services">Hizmetler</a></li><li><a href="#portfolio">Portfolyo</a></li><li><a href="#about">Hakkımızda</a></li><li><a href="#contact">İletişim</a></li></ul></nav>
+<nav><div class="logo">ATG</div><ul><li><a href="#hero">Ana Sayfa</a></li><li><a href="#services">Hizmetler</a></li><li><a href="#portfolio">Portfolyo<<div class="portfolio-grid">
+
+  <div class="item social">
+    <img src="images/social1.jpg" alt="Luxury Watch Campaign">
+    <h3>Luxury Watch Campaign</h3>
+    <p>Instagram reklam tasarımı</p>
+  </div>
+
+  <div class="item social">
+    <img src="images/social2.jpg" alt="Fitness Post">
+    <h3>Fitness Motivation</h3>
+    <p>Sosyal medya tasarımı</p>
+  </div>
+
+  <div class="item social">
+    <img src="images/social3.jpg" alt="Coffee Branding">
+    <h3>Coffee Branding</h3>
+    <p>Marka paylaşımı</p>
+  </div>
+
+  <div class="item social">
+    <img src="images/social4.jpg" alt="Streetwear Design">
+    <h3>Streetwear Collection</h3>
+    <p>Moda post tasarımı</p>
+  </div>
+
+  <div class="item ad">
+    <img src="images/ad1.jpg" alt="Advertising Poster">
+    <h3>Advertising Poster</h3>
+    <p>Premium reklam tasarımı</p>
+  </div>
+
+  <div class="item logo">
+    <img src="images/logo1.png" alt="ATG Logo Design">
+    <h3>ATG Logo Design</h3>
+    <p>Kurumsal kimlik çalışması</p>
+  </div>
+
+</div>></li><li><a href="#about">Hakkımızda</a></li><li><a href="#contact">İletişim</a></li></ul></nav>
 <section class="hero" id="hero"><div><h1>ATG CREATIVE</h1><p>Sosyal Medya Tasarımı • Video Edit • Grafik Tasarım • Premium Dijital Marka Kimliği</p><a href="#portfolio" class="btn">Portfolyoyu Gör</a></div></section>
 <section id="services"><h2 class="title">Hizmetlerimiz</h2><div class="services"><div class="card"><h3>🎨 Sosyal Medya Tasarımı</h3><p>Instagram post, story, carousel ve içerik tasarımları.</p></div><div class="card"><h3>🎬 Video Edit</h3><p>Reels, TikTok, Shorts ve reklam videoları.</p></div><div class="card"><h3>🖤 Logo Tasarımı</h3><p>Modern ve premium logo çalışmaları.</p></div><div class="card"><h3>📢 Reklam Tasarımları</h3><p>Markanı büyütecek kreatif reklam içerikleri.</p></div><div class="card"><h3>📱 Thumbnail Tasarımı</h3><p>YouTube ve sosyal medya kapak görselleri.</p></div><div class="card"><h3>🚀 Kurumsal Kimlik</h3><p>Marka renkleri, tipografi ve görsel kimlik.</p></div></div></section>
 <section id="portfolio"><h2 class="title">Portfolyo</h2><div class="portfolio-menu"><button>Tümü</button><button>Video Edit</button><button>Sosyal Medya</button><button>Logo</button><button>Reklam</button></div><div class="gallery"><div class="item">Instagram Tasarımı</div><div class="item">Video Edit Projesi</div><div class="item">Logo Tasarımı</div><div class="item">Reklam Videosu</div><div class="item">Story Tasarımı</div><div class="item">Kurumsal Kimlik</div></div></section>
@@ -21,7 +59,4 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(circle
 <section id="contact" class="contact"><h2 class="title">İletişim</h2><p>Markanı birlikte büyütelim.</p><div class="socials"><a href="https://wa.me/905555555555">WhatsApp</a><a href="https://instagram.com/atgcreative">Instagram</a></div><form><input placeholder="Ad Soyad"><input placeholder="E-posta"><select><option>Hizmet Seçiniz</option><option>Video Edit</option><option>Sosyal Medya Tasarımı</option><option>Logo Tasarımı</option></select><textarea rows="5" placeholder="Mesajınız"></textarea><button class="submit">Teklif Gönder</button></form></section><footer>© 2026 ATG Creative • Premium Digital Agency</footer>
 </body>
 </html> 
-<div class="item social">
-  <img src="images/social1.jpg" alt="Luxury Watch Post">
-  <h4>Luxury Watch Campaign</h4>
-</div>
+
